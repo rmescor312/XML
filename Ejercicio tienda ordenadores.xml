@@ -1,0 +1,24 @@
+<tienda>
+        <articulos>
+            <articulo>ID1
+                <nombre>ASUS 1</nombre>
+                <categoria>portatil</categoria>
+                <marca>ASUS</marca>
+                <precio>600€</precio>
+                <stock>5</stock>
+            </articulo>
+            <articulo>ID2
+                <nombre>HP 20</nombre>
+                <categoria>monitor</categoria>
+                <marca>HP</marca>
+                <precio>400€</precio>
+                <stock>7</stock>
+            </articulo>
+            </artículo>ID3
+                <nombre>razer 3</nombre>
+                <categoria>raton</categoria>
+                <marca>razer</marca>
+                <precio>150€</precio>
+                <stock>6</stock>
+        </articulos>
+    </tienda>

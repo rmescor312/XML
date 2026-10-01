@@ -1,0 +1,21 @@
+<biblioteca>
+        <libros>
+            <libro>1111</libro>
+                <titulo>El señor de los anillos</titulo>
+                <autor>JR Tolkien</autor>
+                <editorial>pegaso</editorial>
+                <anioPublicación>1954</añoPublicación>
+                <categoria>aventura</categoria>
+                <precio>27€</precio>
+                
+            <libro>1211</libro>
+                <titulo>Harry Potter</titulo>
+                <autor>JK Rowling</autor>
+                <editorial>hercules</editorial>
+                <anioPublicación>1997</anioPublicación>
+                <categoria>ficcion</categoria>
+                <precio>24€</precio>
+        </libros>
+</biblioteca>
+                
+                
